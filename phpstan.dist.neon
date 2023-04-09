@@ -1,0 +1,6 @@
+parameters:
+    level: max
+    tmpDir: .phpstan/dist
+    paths:
+        - src
+        - tests
