@@ -1,6 +1,8 @@
 {
     "name": "flexis/php-monitoring-response",
     "description": "Provides common http response structure for generic monitoring purposes",
+    "keywords": ["monitoring"],
+    "homepage": "https://github.com/flex-is/php-monitoring-response",
     "type": "library",
     "license": "MIT",
     "authors": [
